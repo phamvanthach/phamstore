@@ -1,7 +1,7 @@
 {
   "name": "PhamStore",
   "short_name": "PhamStore",
-  "start_url": "/phamstore.html",
+  "start_url": "./phamstore.html",
   "display": "standalone",
   "background_color": "#BF360C",
   "theme_color": "#D84315",

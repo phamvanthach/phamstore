@@ -2,7 +2,7 @@
 self.addEventListener('install', e => {
   e.waitUntil(
     caches.open('phamstore-v1').then(cache =>
-      cache.addAll(['/phamstore.html'])
+      cache.addAll(['./phamstore.html'])
     )
   );
 });
